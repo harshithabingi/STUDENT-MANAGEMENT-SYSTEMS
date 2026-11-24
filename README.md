@@ -18,3 +18,4 @@ It is the main page. Show all the option you can do with it.
 <br>
 Add Student page. You can store name, roll, department, sgpa and the cgpa will be calculated automatically. 
 <br>
+EKK5VF
